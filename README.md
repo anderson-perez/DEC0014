@@ -5,6 +5,7 @@ DEC0014
 ├── Aulas
 │   └── Aula_15_10.ipynb
 │   └── Aula_03_11.ipynb
+│   └── Aula_10_11.ipynb
 │
 ├── Listas de exercícios
 │    └── Exercícios_aprendizado_supervisionado.ipynb
